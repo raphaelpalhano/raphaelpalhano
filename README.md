@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-Sou apaixonado por tecnologia, e atualmente estou encarando meus problemas com a ajuda da programação.
+Sou apaixonado por tecnologia, e atualmente estou encarando meus problemas com a ajuda da programação.<br>
 Evoluindo 1% a cada dia para ser reconhecido como Dev :computer:<br>
 
 :office: &nbsp; Estou trabalhando como **freelancer** 
