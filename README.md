@@ -12,7 +12,7 @@ Evoluindo 1% a cada dia para ser reconhecido como Dev :computer:<br>
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologia, leituras da era antiga, seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: (raphael1angel@gmail.com)
   <br/> :blue_book: &nbsp; Meu perfil no linkedin: (www.linkedin.com/in/raphael-palhano) 
- <br/> 📓: &nbsp; Meu perfil no linkedin:  https://raphaelpalhano.github.io/
+ <br/> 📓: &nbsp; Meu portfólio:  https://raphaelpalhano.github.io/
 
 
 
