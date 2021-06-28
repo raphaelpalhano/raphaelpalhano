@@ -5,7 +5,7 @@
 Sou apaixonado por tecnologia, e atualmente estou encarando meus problemas com a ajuda da programação.<br>
 Evoluindo 1% a cada dia para ser reconhecido como Dev :computer:<br>
 
-:office: &nbsp; Estou trabalhando na **EVERIS** 
+:office: &nbsp; Estou trabalhando na **everis** 
  <br/> :purple_heart: &nbsp; Buscando fazer network e colaborando com projetos voltados para teste automatizados Web, Inteligência Artificial.  
  <br/> :blush: &nbsp; Posso te ajudar com a automação de testes, (Unidade, Integração, Sistema), utilizando JAVA -> (Maven/Gradle, jUnit/TestNg, Selenium/Appium, Cucumber/Gherkin)
  <br/> :computer: &nbsp; Minha stack: Testes == JAVA, IA == Python, Estudo esporádico: HTML, CSS, Javscript
