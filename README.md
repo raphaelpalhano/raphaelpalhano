@@ -9,9 +9,10 @@ I´m passionate about technology and I love solving complex challenges. My goal 
  <br/> :blush: &nbsp; Can I help you with: 
  ~~~json
     {
-      "Java": ["spring", "maven", "gradle", "jUnit", "Testng", "Cucumber", "PageObject"],
-      "Javascript": ["Jest", "Mocha", "Cypress", "Design Pattern", "K6", "npm", "yarn"],
-      "Python": ["behave", "playwraight", "pytest", "pandas", "numpy"]
+      "Java": ["spring", "maven", "gradle", "jUnit", "Testng", "Cucumber", "Design Patterns"],
+      "Javascript": ["Jest", "Mocha", "Cypress", "Design Pattern", "K6", "npm", "yarn", "wdio", ],
+      "Python": ["behave", "playwraight", "pytest", "pandas", "numpy"],
+      "C#": ["moq", "xunit", "FluentAssertins"]
     } 
  ~~~
 
