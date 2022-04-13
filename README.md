@@ -12,7 +12,12 @@ I´m passionate about technology and I love solving complex challenges. My goal 
       "Java": ["spring", "maven", "gradle", "jUnit", "Testng", "Cucumber", "Design Patterns"],
       "Javascript": ["Jest", "Mocha", "Cypress", "Design Pattern", "K6", "npm", "yarn", "wdio", ],
       "Python": ["behave", "playwraight", "pytest", "pandas", "numpy"],
-      "C#": ["moq", "xunit", "FluentAssertins"]
+      "C#": ["moq", "xunit", "FluentAssertins"],
+      "Docker": ["imagens", "containers", "docker-compose", "docker-image"],
+      "Jenkins": ["pipeline-declarativa", "pipeline-Script", "SCM de CI"],
+      "Azure-pipeline: ["azure-pipeline.yml", "pipeline por task", "SCM"],
+      "Robot-framework": ["API", "Web"],
+      "Kubernets": ["pods", "escalabilidade horizontal"],
     } 
  ~~~
 
