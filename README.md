@@ -18,6 +18,7 @@ I´m passionate about technology and I love solving complex challenges. My goal 
       "Azure-pipeline: ["azure-pipeline.yml", "pipeline por task", "SCM"],
       "Robot-framework": ["API", "Web"],
       "Kubernets": ["pods", "escalabilidade horizontal"],
+      "HTML": ["Estruturação do DOM", "tags semânticas", "ordenação de títulos", "listas", "etc"]
     } 
  ~~~
 
