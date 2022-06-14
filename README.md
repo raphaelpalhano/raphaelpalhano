@@ -15,7 +15,7 @@ I´m passionate about technology and I love solving complex challenges. My goal 
       "C#": ["moq", "xunit", "FluentAssertins"],
       "Docker": ["imagens", "containers", "docker-compose", "docker-image"],
       "Jenkins": ["declarative pipeline", "pipeline-Script", "SCM de CI"],
-      "Azure-pipeline: ["azure-pipeline-yml", "pipeline por task", "SCM"],
+      "Azure-pipeline": ["azure-pipeline.yml", "task pipeline", "SCM", "parallel", "release"],
       "Robot-framework": ["API", "Web"],
       "Github Actions": ["workflow", "parallell"],
       "Kubernets": ["pods", "escalabilidade horizontal"],
