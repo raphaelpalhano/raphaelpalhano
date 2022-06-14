@@ -10,21 +10,21 @@ I´m passionate about technology and I love solving complex challenges. My goal 
  ~~~json
     {
       "Java": ["spring", "maven", "gradle", "jUnit", "Testng", "Cucumber", "Design Patterns"],
-      "Javascript": ["Jest", "Mocha", "Cypress", "Design Pattern", "K6", "npm", "yarn", "wdio", "Pact", "Detox"],
+      "Javascript": ["Node", "Jest", "Mocha", "Cypress", "Design Pattern", "K6", "npm", "yarn", "wdio", "Pact", "Detox", "Playwright"],
       "Python": ["behave", "playwraight", "pytest", "pandas", "numpy"],
       "C#": ["moq", "xunit", "FluentAssertins"],
       "Docker": ["imagens", "containers", "docker-compose", "docker-image"],
-      "Jenkins": ["pipeline-declarativa", "pipeline-Script", "SCM de CI"],
-      "Azure-pipeline: ["azure-pipeline.yml", "pipeline por task", "SCM"],
+      "Jenkins": ["declarative pipeline", "pipeline-Script", "SCM de CI"],
+      "Azure-pipeline: ["azure-pipeline-yml", "pipeline por task", "SCM"],
       "Robot-framework": ["API", "Web"],
+      "Github Actions": ["workflow", "parallell"],
       "Kubernets": ["pods", "escalabilidade horizontal"],
-      "HTML": ["Estruturação do DOM", "tags semânticas", "ordenação de títulos", "listas", "etc"]
+      "HTML": ["DOM structure", "semantic tags", "title ordenations", "tables,list,footer", "etc"],
     } 
  ~~~
 
  <br/> :email: &nbsp; My contact: (raphael1angel@hotmail.com)
   <br/> :blue_book: &nbsp; linkedin: (www.linkedin.com/in/raphael-palhano) 
- <br/> 📓: &nbsp; portfolio:  https://raphaelpalhano.github.io/
-
+ 
 
 
