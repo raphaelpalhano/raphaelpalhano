@@ -4,7 +4,7 @@
 
 I´m passionate about technology and I love solving complex challenges. My goal is to evolve 1% per day, both soft skills and hard skills.
 
-:office: &nbsp; I´m working in [Avenue code](https://www.avenuecode.com.br/)
+:office: &nbsp; I´m working with consultancy
  <br/> :purple_heart: &nbsp; Develop my stack and contribute other projects that involving automation test, pipelines CI/CD. 
  <br/> :blush: &nbsp; Can I help you with: 
  ~~~json
