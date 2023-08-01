@@ -9,10 +9,11 @@ I´m passionate about technology and I love solving complex challenges. My goal 
  <br/> :email: &nbsp; My contact: (raphael1angel@hotmail.com)
   <br/> :blue_book: &nbsp; linkedin: (www.linkedin.com/in/raphael-palhano) 
 
-
+# My Status
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raphaelpalhano)](https://github.com/raphaelpalhano/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpalhano&hide_progress=true)
 
-  <br/> :blush: &nbsp; Can I help you with: 
+ # I can help you with: 
  ~~~json
     {
       "Java": ["spring", "maven", "gradle", "jUnit", "Testng", "Cucumber", "Design Patterns"],
