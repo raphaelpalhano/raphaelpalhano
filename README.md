@@ -12,9 +12,6 @@ I´m passionate about technology and I love solving complex challenges. My goal 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpalhano&hide_progress=true)
 
-[![raphaelpalhano's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpalhano)](https://github.com/raphaelpalhano/github-readme-stats)
-
-
   <br/> :blush: &nbsp; Can I help you with: 
  ~~~json
     {
