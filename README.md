@@ -6,7 +6,16 @@ I´m passionate about technology and I love solving complex challenges. My goal 
 
 :office: &nbsp; I´m working with consultancy
  <br/> :purple_heart: &nbsp; Develop my stack and contribute other projects that involving automation test, pipelines CI/CD. 
- <br/> :blush: &nbsp; Can I help you with: 
+ <br/> :email: &nbsp; My contact: (raphael1angel@hotmail.com)
+  <br/> :blue_book: &nbsp; linkedin: (www.linkedin.com/in/raphael-palhano) 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpalhano&hide_progress=true)
+
+[![raphaelpalhano's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpalhano)](https://github.com/raphaelpalhano/github-readme-stats)
+
+
+  <br/> :blush: &nbsp; Can I help you with: 
  ~~~json
     {
       "Java": ["spring", "maven", "gradle", "jUnit", "Testng", "Cucumber", "Design Patterns"],
@@ -23,8 +32,3 @@ I´m passionate about technology and I love solving complex challenges. My goal 
     } 
  ~~~
 
- <br/> :email: &nbsp; My contact: (raphael1angel@hotmail.com)
-  <br/> :blue_book: &nbsp; linkedin: (www.linkedin.com/in/raphael-palhano) 
- 
-
-[![raphaelpalhano's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpalhano)](https://github.com/raphaelpalhano/github-readme-stats)
