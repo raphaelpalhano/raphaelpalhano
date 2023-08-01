@@ -27,4 +27,4 @@ I´m passionate about technology and I love solving complex challenges. My goal 
   <br/> :blue_book: &nbsp; linkedin: (www.linkedin.com/in/raphael-palhano) 
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpalhano)](https://github.com/raphaelpalhano/github-readme-stats)
+[![raphaelpalhano's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelpalhano)](https://github.com/raphaelpalhano/github-readme-stats)
