@@ -8,7 +8,7 @@ I´m passionate about technology and I love solving complex challenges. My goal 
  <br/> :purple_heart: &nbsp; Develop my stack and contribute other projects that involving automation test, pipelines CI/CD. 
 
  ## Social
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/raphael-palhano/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/raphael-palhano/)
 
 ## Languages and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
