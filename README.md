@@ -39,8 +39,7 @@ I´m passionate about technology and I love solving complex challenges. My goal 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=react)
 
 # My tops
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=react)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelpalhano&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raphaelpalhano&theme=react)
 
 
 
