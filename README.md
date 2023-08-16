@@ -36,8 +36,7 @@ I´m passionate about technology and I love solving complex challenges. My goal 
 
 
 ## My Status
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=apprentice) ![Top Langs]![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raphaelpalhano&theme=apprentice)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raphaelpalhano&theme=apprentice&utcOffset=8)
 
 
 
