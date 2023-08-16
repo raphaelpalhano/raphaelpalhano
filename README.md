@@ -36,8 +36,7 @@ I´m passionate about technology and I love solving complex challenges. My goal 
 
 
 ## My Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=github_dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpalhano&hide_progress=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raphaelpalhano&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelpalhano&hide_progress=true)
 
 
 
